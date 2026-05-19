@@ -6,8 +6,8 @@ My work focuses on building SaaS products, open-source tools, and exploring AI r
 
 ## 🚀 What I'm working on
 
-* **[papermill](https://github.com/celynn/papermill):** An automated AI research system for ideating and writing papers.
-* **[paper-repro-python](https://github.com/celynn/paper-repro-python):** A tool to assist in reproducing research papers using Python.
+* **[papermill](https://github.com/sihuangtech/papermill):** An automated AI research system for ideating and writing papers.
+* **[paper-repro-python](https://github.com/celynnmoonlight/paper-repro-python):** A tool to assist in reproducing research papers using Python.
 * **Simple Audio Editor:** A cross-platform desktop audio editing tool.
 * **SME Finance CN:** An open-source accounting system tailored for Chinese small businesses.
 
