@@ -6,10 +6,10 @@ My work focuses on building SaaS products, open-source tools, and exploring AI r
 
 ## 🚀 What I'm working on
 
-* **[papermill](https://github.com/sihuangtech/papermill):** An automated AI research system for ideating and writing papers.
-* **[paper-repro-python](https://github.com/celynnmoonlight/paper-repro-python):** A tool to assist in reproducing research papers using Python.
-* **Simple Audio Editor:** A cross-platform desktop audio editing tool.
-* **SME Finance CN:** An open-source accounting system tailored for Chinese small businesses.
+* **[FlagSay (彩旗说)](https://flagsay.com/):** An AI-powered interactive language learning app built around visual recognition, stories, and conversations.
+* **[Era Workshop (纪元工坊)](https://eraworkshop.com/):** A creative time-narrative app for custom eras, date labels, and personal timelines.
+* **[MedTrace (医迹)](https://medtrace.skstudio.cn/):** An offline-first personal and family health record app.
+* **[Flag Scholar (彩旗学术)](https://scholar.skstudio.cn/):** An AI research assistant for literature review, paper reading, and academic writing.
 
 ## 🌍 Connect with me
 
