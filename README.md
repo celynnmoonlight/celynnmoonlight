@@ -1,8 +1,8 @@
 # Hi there, I'm Celynn Moonlight 👋
 
-I'm a solo indie developer and the founder of **Sunrise Chime Tech** (SK Studio), currently based in **Tokyo, Japan 🗼**.
+I'm a PhD student, solo indie developer, and co-founder of **Sunrise Chime Tech** (SK Studio).
 
-My work focuses on building SaaS products, open-source tools, and exploring AI research systems.
+My work focuses on building SaaS products, open-source tools, and exploring AI research systems. I'm also creating tutorial videos about AI Agent tools, and you're welcome to check them out on my Bilibili or YouTube channels.
 
 ## 🚀 What I'm working on
 
@@ -14,6 +14,10 @@ My work focuses on building SaaS products, open-source tools, and exploring AI r
 ## 🌍 Connect with me
 
 * **X (Twitter):** [@CelynnMoonlight](https://x.com/CelynnMoonlight)
+* **Xiaohongshu:** [哈基米米小猫咪咪](https://www.xiaohongshu.com/user/profile/6825745a000000000e01ee38)
+* **Douyin:** [木子贝贝](https://www.douyin.com/user/MS4wLjABAAAAoX597B5i_jymDQOkqEGxJKvJCKB4ODZGswGBIQt11FK1zW19BU1C9KrAR8z0xbBS)
+* **Bilibili:** [月亮的AI实验室](https://space.bilibili.com/354664496234770)
+* **YouTube:** [Moonlight AI Lab](https://www.youtube.com/@MoonlightAILab)
 * **Email:** [lynnxu2025@gmail.com](mailto:lynnxu2025@gmail.com)
 
 ## ☕ Support my work
