@@ -6,7 +6,7 @@ My work focuses on building SaaS products, open-source tools, and exploring AI r
 
 ## 🚀 What I'm working on
 
-* **[FlagSay (彩旗说)](https://flagsay.com/):** An AI-powered interactive language learning app built around visual recognition, stories, and conversations.
+* **[Flagsay (彩旗说)](https://flagsay.com/):** An AI-powered interactive language learning app built around visual recognition, stories, and conversations.
 * **[Era Workshop (纪元工坊)](https://eraworkshop.com/):** A creative time-narrative app for custom eras, date labels, and personal timelines.
 * **[MedTrace (医迹)](https://medtrace.skstudio.cn/):** An offline-first personal and family health record app.
 * **[SK Scholar (彩旗学术)](https://scholar.skstudio.cn/):** An AI research assistant for literature review, paper reading, and academic writing.
